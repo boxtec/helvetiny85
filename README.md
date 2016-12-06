@@ -1,6 +1,7 @@
 # helvetiny85
 
-here you can find the Board Helvetiny85 and Helvetiny85 BB (BreadBoard)
+here you can find the Board Helvetiny85 and Helvetiny85 BB (BreadBoard).
+Now we have also a Fritzing Part File you can directly work with the Helvetiny85 in Fritzing.
 
 If you would like to buy our kit: http://shop.boxtec.ch/helvetiny85-kit-p-42657.html
 
