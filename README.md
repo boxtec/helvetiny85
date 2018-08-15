@@ -1,15 +1,22 @@
-# helvetiny85
+# helvetiny85 and helvetiny85 3.3 V
 
-here you can find the Board Helvetiny85 and Helvetiny85 BB (BreadBoard).
+here you can find the Board Helvetiny85, Helvetiny85 BB (BreadBoard) and the Helvetiny 85 3.3 Volt.
 Now we have also a Fritzing Part File you can directly work with the Helvetiny85 in Fritzing.
 
-If you would like to buy our kit: http://shop.boxtec.ch/helvetiny85-kit-p-42657.html
+# Kits
+If you would like to buy our kits.
+Helvetiny85:          http://shop.boxtec.ch/helvetiny85-kit-p-42657.html
+Helvetiny85 3.3 Volt: https://shop.boxtec.ch/helvetiny85-kit-33v-p-42931.html
 
-Documentation: http://playground.boxtec.ch/doku.php/arduino/attinyusb/helvetiny85
+# Documentation
+Helvetiny85:          http://playground.boxtec.ch/doku.php/arduino/attinyusb/helvetiny85
+Helvetiny85 3.3 Volt: https://playground.boxtec.ch/doku.php/arduino/attinyusb/helvetiny85_3.3_v
 
-Tutorials: http://playground.boxtec.ch/doku.php/arduino/attinyusb/helvetiny85/tutorials
+# Tutorials
+http://playground.boxtec.ch/doku.php/arduino/attinyusb/helvetiny85/tutorials
 
-Support Thread: http://forum.boxtec.ch/index.php/topic,3162.0.html
+# Support Thread
+http://forum.boxtec.ch/index.php/topic,3162.0.html
 
 Have fun.
 Dinoi
