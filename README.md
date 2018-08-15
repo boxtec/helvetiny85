@@ -1,6 +1,6 @@
 # helvetiny85 and helvetiny85 3.3 V
 
-here you can find the Board Helvetiny85, Helvetiny85 BB (BreadBoard) and the Helvetiny 85 3.3 Volt.
+here you can find the Board Helvetiny85 (Files: HelveTiny_1.0.brd,HelveTiny_1.0.sch) and the Board Helvetiny 85 3.3 Volt (Files: HelveTiny85_3.3V.brd, HelveTiny85_3.3V.sch).
 Now we have also a Fritzing Part File you can directly work with the Helvetiny85 in Fritzing.
 
 # Kits
